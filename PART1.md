@@ -40,13 +40,12 @@ List all the features not yet done. Remove this section if there is no incomplet
 10. For defeated zombies, the game can skip their turns, but their attributes must remain displayed throughout the game.
 11. Using command arrow user can change arrow direction by inserting the exact location of the arrow and its new direction.
 12. Help command to list and describe the commands that the player can use in the game.
-13. Save Game.
-14. Load Game.
-15. Quit Game.
+13. Save the current game to a file.
+14. Load a saved game from a file.
+15. Quit Game while still in play.
 
 ## Additional Features
-
-Describe the additional features that has been implemented.
+-
 
 ## Contributions
 
