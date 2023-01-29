@@ -3,7 +3,7 @@
 Please introduce the game here.
 
 You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
-<img src="AlienPath.png"style="height: 100px; width:100px;"/>
+![image](AlienPath.png)
 
 Please provide the YouTube link to your [Video Demo](https://youtube.com).
 
