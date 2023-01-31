@@ -54,17 +54,17 @@ List down the contribution of each group members.
 
 ### Loi Xinyi
 
-1. Randomly generate game board.
+1. 
 2. *add more*
 
 ### Lam Yuet Xin
 
-1. Zombie movement and attack behaviour.
+1. Randomly generate game board.
 2. *add more*
 
 ### Mischelle
 
-1. Implement all game objects.
+1. 
 2. *add more*
 
 ## Problems Encountered & Solutions
