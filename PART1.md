@@ -64,7 +64,7 @@ List down the contribution of each group members.
 
 ### Mischelle
 
-1. 
+1. Initially the output has multiple A s and we fixed it and manage to get single A that is random
 2. *add more*
 
 ## Problems Encountered & Solutions
