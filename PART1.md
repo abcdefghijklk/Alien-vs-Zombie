@@ -27,8 +27,7 @@ List all the features completed.
 ### To Do
 
 List all the features not yet done. Remove this section if there is no incomplete requirements.
-
-1.Alien attack is reset after each turn. 
+1.Alien attack is reset after each turn.
 2. Alien and Zombie take turns to move but Alien is always the first to move.
 3. If Zombie is defeated by the attack, Zombie will be removed from the game board while Alien continues to move.
 4. can support a maximum of NINE (9) zombies.
@@ -44,6 +43,7 @@ List all the features not yet done. Remove this section if there is no incomplet
 14. Save the current game to a file.
 15. Load a saved game from a file.
 16. Quit Game while still in play.
+
 
 ## Additional Features
 -
