@@ -64,7 +64,7 @@ List down the contribution of each group members.
 
 ### Mischelle
 
-1. 
+1. Initialy was able to fixed the gameboard with multiple A s to single A that is random
 2. *add more*
 
 ## Problems Encountered & Solutions
