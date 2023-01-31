@@ -46,11 +46,47 @@ int main()
     //srand(1);
 	srand(time(0));
 	
-	    int r;
-        int c;
-        int z;
+	int rowCount;
+        int columnCount;
+        int zombieCount;
 		
 	std::cout << std::endl;
-	
+	if(yn =='N' ||yn =='n')
+    {
+        control.work();
+    }
 	//gb.show();
-	control.work();
+     if(yn =='Y' ||yn =='y')
+    {
+       
+     cout<<"Board Setting"<< endl;
+     cout<<"-----------------"<< endl;
+ 
+        cout<<"Enter row =>";
+        cin>>rowCount;
+        while (rowCount % 2 == 0)
+        {
+            cout<<"Please enter an odd number"<<endl;
+            cout<<"Enter row =>";
+            cin>>rowCount;
+        }
+            cout<<"Enter column =>";
+            cin>>columnCount;
+            while (columnCount % 2 == 0)
+        {
+            cout<<"Please enter an odd number"<<endl;
+            cout<<"Enter column =>";
+            cin>>columnCount;
+        }
+            cout<<endl;
+            cout<<"Zombie Setting"<< endl;
+            cout<<"-----------------"<< endl;
+            cout<<"Enter number of zombie =>";
+            cin>>zombieCount;
+            cout<<endl;
+            cout<<"Setting Updated."<< endl;
+            cout<<"Press any key to continue . . ."<< endl;
+            control.work();
+
+       }
+
